@@ -1,0 +1,154 @@
+@font-face {
+     font-family: 'Butler';
+     font-style:  normal;
+     font-weight: 300;
+     font-display: swap;
+     src: url("fonts/butler/Butler_Light.otf") format("opentype");
+ }
+
+ @font-face {
+     font-family: 'Butler';
+     font-style:  normal;
+     font-weight: 400;
+     font-display: swap;
+     src: url("fonts/butler/Butler_Regular.otf") format("opentype");
+ }
+
+ 
+ @font-face {
+     font-family: 'Inter';
+     font-style:  normal;
+     font-weight: 400;
+     font-display: swap;
+     src: url("fonts/inter/Inter-Regular.woff2?v=3.11") format("woff2"),
+          url("fonts/inter/Inter-Regular.woff?v=3.11") format("woff");
+   }
+   @font-face {
+     font-family: 'Inter';
+     font-style:  italic;
+     font-weight: 400;
+     font-display: swap;
+     src: url("fonts/inter/Inter-Italic.woff2?v=3.11") format("woff2"),
+          url("fonts/inter/Inter-Italic.woff?v=3.11") format("woff");
+   }
+   
+   @font-face {
+     font-family: 'Inter';
+     font-style:  normal;
+     font-weight: 500;
+     font-display: swap;
+     src: url("fonts/inter/Inter-Medium.woff2?v=3.11") format("woff2"),
+          url("fonts/inter/Inter-Medium.woff?v=3.11") format("woff");
+   }
+   @font-face {
+     font-family: 'Inter';
+     font-style:  italic;
+     font-weight: 500;
+     font-display: swap;
+     src: url("fonts/inter/Inter-MediumItalic.woff2?v=3.11") format("woff2"),
+          url("fonts/inter/Inter-MediumItalic.woff?v=3.11") format("woff");
+   }
+   
+   @font-face {
+     font-family: 'Inter';
+     font-style:  normal;
+     font-weight: 600;
+     font-display: swap;
+     src: url("fonts/inter/Inter-SemiBold.woff2?v=3.11") format("woff2"),
+          url("fonts/inter/Inter-SemiBold.woff?v=3.11") format("woff");
+   }
+   @font-face {
+     font-family: 'Inter';
+     font-style:  italic;
+     font-weight: 600;
+     font-display: swap;
+     src: url("fonts/inter/Inter-SemiBoldItalic.woff2?v=3.11") format("woff2"),
+          url("fonts/inter/Inter-SemiBoldItalic.woff?v=3.11") format("woff");
+   }
+
+   @font-face {
+     font-family: 'Lack';
+     font-style:  normal;
+     font-weight: 400;
+     font-display: swap;
+     src: url("fonts/lack/lack-regular.otf") format("opentype");
+   }
+
+   @font-face {
+     font-family: 'Lack Line';
+     font-style:  normal;
+     font-weight: 400;
+     font-display: swap;
+     src: url("fonts/lack/lack-line-regular.otf") format("opentype");
+   }
+
+   @font-face {
+    font-family: 'Sporting Grotesque';
+    font-style:  normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("fonts/sporting-grotesque/SportingGrotesque-Regular.otf") format("opentype");
+  }
+
+  @font-face {
+    font-family: 'Sporting Grotesque';
+    font-style:  bold;
+    font-weight: 700;
+    font-display: swap;
+    src: url("fonts/sporting-grotesque/SportingGrotesque-Bold.otf") format("opentype");
+  }
+
+
+  @font-face {
+    font-family: 'Helvetica Neue LT';
+    font-style:  normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("fonts/helveticaneue/HelveticaNeueLTStd-400.otf") format("opentype");
+  }
+
+  @font-face {
+    font-family: 'Helvetica Neue LT';
+    font-style:  normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url("fonts/helveticaneue/HelveticaNeueLTStd-500.otf") format("opentype");
+  }
+
+  @font-face {
+    font-family: 'Helvetica Neue LT Ex';
+    font-style:  normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url("fonts/helveticaneue/HelveticaNeueLTStd-500ex.otf") format("opentype");
+  }
+
+
+  @font-face {
+    font-family: 'Circular';
+    font-weight:400;
+    font-style:normal;
+    font-display: swap;
+    src: url("fonts/circular/circular-book.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'Circular';
+    font-weight:500;
+    font-display: swap;
+    src: url("fonts/circular/circular-medium.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'Circular';
+    font-weight:600;
+    font-display: swap;
+    src: url("fonts/circular/circular-bold.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'Circular';
+    font-weight:700;
+    font-display: swap;
+    src: url("fonts/circular/circular-black.otf") format("opentype");
+}

@@ -1,0 +1,64 @@
+a:hover, a:focus {
+    text-decoration: none;
+}
+.navbar-brand > img{
+	vertical-align: middle;
+	margin-top: 9px;
+}
+.navbar .btn{
+	color: #fff;
+	background: #222;
+}
+.docs-content .container ul li {
+    font-size: 14px;
+}
+.docs-content h1{
+	border-bottom: 1px solid #ddd;
+    padding-bottom: 15px;
+}
+a{
+    color: #0275d8;
+    text-decoration: none;
+    font-weight: 600;
+}
+.docs-content img{
+	border: 1px solid #ddd;
+}
+
+.card-header{
+	border-top-right-radius: 6px !important;
+    border-top-left-radius: 6px !Important;
+    font-size: 20px;
+    color: #fff;
+    font-weight: 500;
+}
+.card{
+	border-radius: 6px;
+	    box-shadow: 0 14px 44px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0 14px 44px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 14px 44px rgba(0, 0, 0, 0.1);
+}
+
+.card-title a {
+    font-weight: 500;
+}
+.docs-header-main {
+    text-align: center;
+    height: 330px;
+    vertical-align: middle;
+    position: relative;
+    top: 140px;
+    width: 100%;
+}
+.docs-header-main h1
+{
+    font-weight: 500;
+    font-size: 40px;
+}
+.docs-header-main p
+{
+    font-size: 18px;
+}
+.card-block {
+    height: 110px;
+}

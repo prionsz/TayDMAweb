@@ -1,0 +1,91 @@
+@font-face {
+    font-family: 'codeless-icons';
+    src:  url('fonts/codeless-remake-icons/codeless-remake.eot?ntje9x');
+    src:  url('fonts/codeless-remake-icons/codeless-remake.eot?ntje9x#iefix') format('embedded-opentype'),
+      url('fonts/codeless-remake-icons/codeless-remake.ttf?ntje9x') format('truetype'),
+      url('fonts/codeless-remake-icons/codeless-remake.woff?ntje9x') format('woff'),
+      url('fonts/codeless-remake-icons/codeless-remake.svg?ntje9x#codeless-remake') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  [class^="cl-icon-"], [class*=" cl-icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'codeless-icons' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .cl-icon-heart-1:before {
+    content: "\f004";
+  }
+  .cl-icon-heart-o:before {
+    content: "\f08a";
+  }
+  .cl-icon-twitter:before {
+    content: "\f099";
+  }
+  .cl-icon-facebook:before {
+    content: "\f09a";
+  }
+  .cl-icon-github:before {
+    content: "\f09b";
+  }
+  .cl-icon-pinterest:before {
+    content: "\f0d2";
+  }
+  .cl-icon-envelope:before {
+    content: "\f0e0";
+  }
+  .cl-icon-linkedin:before {
+    content: "\f0e1";
+  }
+  .cl-icon-quote-left:before {
+    content: "\f10d";
+  }
+  .cl-icon-youtube-play:before {
+    content: "\f16a";
+  }
+  .cl-icon-instagram:before {
+    content: "\f16d";
+  }
+  .cl-icon-dribbble:before {
+    content: "\f17d";
+  }
+  .cl-icon-skype:before {
+    content: "\f17e";
+  }
+  .cl-icon-slack:before {
+    content: "\f198";
+  }
+  .cl-icon-google:before {
+    content: "\f1a0";
+  }
+  .cl-icon-behance:before {
+    content: "\f1b4";
+  }
+  .cl-icon-soundcloud:before {
+    content: "\f1be";
+  }
+  .cl-icon-whatsapp:before {
+    content: "\f232";
+  }
+  .cl-icon-commenting-o:before {
+    content: "\f27b";
+  }
+  .cl-icon-search:before {
+    content: "\e986";
+  }
+  .cl-icon-play3:before {
+    content: "\ea1c";
+  }
+  
